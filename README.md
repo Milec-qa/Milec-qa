@@ -24,11 +24,29 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ---
+# 🚀 Mis Proyectos Destacados  
 
-## 📌 Proyectos Destacados  
-🔹 [**Urban Routes Automation**](#) – Selenium + Pytest  
-🔸 [**Urban Grocers App**](#) – Casos de prueba funcionales y automatizados  
-🟣 [**API Stand Tests**](#) – Validación de endpoints con Pytest  
+✨ **Urban Routes Automation**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)  
+
+🚖 Automatización del flujo completo de transporte: elección de carro, servicios adicionales, ruta, tiempos, costos y datos del conductor.  
+
+---
+
+🛴 **Urban Grocers App**  
+![Testing](https://img.shields.io/badge/Functional_Tests-FF6F61?style=for-the-badge&logo=googleforms&logoColor=white)  
+
+🎨 Pruebas funcionales y automatizadas para el alquiler de patinetas: selección de color, punto de recogida y entrega.  
+
+---
+
+🔗 **API Stand Tests**  
+![API](https://img.shields.io/badge/API_Tests-5A67D8?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)  
+
+📱 Validación de endpoints y automatización de pruebas móviles, garantizando calidad y estabilidad en las integraciones.  
+
 
 ---
 
