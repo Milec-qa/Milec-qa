@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Milena Collazos!  
 
-💻 **QA Engineer | QA Automation | Business Administrator**  
+💻 **QA Engineer | QA Automation | Manual QA**  
 ✨ +10 años en gestión de calidad | 3 años en tecnología  
 
 ---
