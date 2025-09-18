@@ -1,64 +1,43 @@
-👋 ¡Hola, soy Milena Collazos!
+# 👋 ¡Hola, soy Milena Collazos!  
 
-💻 QA Engineer | QA Automation | Business Administrator 
-Con más de 10 años de experiencia en gestión de calidad, de los cuales 3 han estado enfocados en tecnología.
-Apasionada por la ejecución de pruebas manuales y automatizadas, la mejora de procesos y el aprendizaje constante.
+💻 **QA Engineer | QA Automation | Business Administrator**  
+✨ +10 años en gestión de calidad | 3 años en tecnología  
 
-🚀 Sobre mí
+---
 
-Siempre me ha apasionado la calidad, en especial la ejecución de pruebas manuales y automatizadas. Esta motivación me llevó a darle un giro a mi vida profesional y pasar de un rol administrativo al mundo de la tecnología. Este campo me cautivó porque es dinámico, evoluciona constantemente y me reta a aprender cada día.
+## 🚀 Sobre mí  
+🟣 QA Manual & Automation (Selenium, Pytest)  
+🟢 Experiencia en SQL, APIs y validación de datos  
+🔵 Proactiva, investigadora y apasionada por mejorar procesos  
+🟡 Amante del ⚽ fútbol y los ✈️ viajes  
 
-Hace 3 años tuve la gran oportunidad de ingresar a este fascinante mundo en IMEXHS, una empresa dedicada al desarrollo de software para médicos, especializada en imagenología. Allí comencé de manera empírica como QA Manual Tester, aprendiendo y creciendo con cada proyecto. Con el tiempo también me involucré en la automatización de pruebas, lo que me permitió ampliar mis capacidades y reafirmar mi decisión de continuar desarrollándome en QA.
+---
 
-Actualmente estoy fortaleciendo mi perfil a través de un bootcamp especializado en QA Engineer, con el propósito de certificar mis conocimientos y habilidades técnicas, lo que me permitirá seguir avanzando en esta apasionante carrera.
+## 🛠️ Tech Stack  
 
-Me destaco por ser una persona proactiva, con gran disposición para aprender, investigar y proponer soluciones. Cuando desconozco algo, busco la manera de comprenderlo y transformarlo en una oportunidad de mejora. He tenido la oportunidad de liderar equipos de QA, optimizar procesos, mejorar la eficiencia y aportar siempre al crecimiento del equipo.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
-Mi objetivo ahora es aprovechar estos aprendizajes para encontrar nuevas oportunidades laborales en entornos remotos e internacionales, donde pueda aportar mi experiencia, seguir creciendo y enfrentar nuevos retos.
+---
 
-Además, me apasiona viajar 🌍, lo que ha fortalecido mi adaptación, resiliencia y trabajo en equipo, cualidades que aplico en cada proyecto en el que participo.
+## 📌 Proyectos Destacados  
+🔹 [**Urban Routes Automation**](#) – Selenium + Pytest  
+🔸 [**Urban Grocers App**](#) – Casos de prueba funcionales y automatizados  
+🟣 [**API Stand Tests**](#) – Validación de endpoints con Pytest  
 
-🎯 Actualmente
+---
 
-Finalizando mi formación como QA Engineer en TripleTen.
+## 📬 Contacto  
+🌐 [LinkedIn](https://linkedin.com/in/tuusuario)  
+📧 **mile_2311@hotmail.com**  
 
-Especialista en pruebas manuales y automatizadas (Selenium, Pytest).
+---
 
-Experiencia en gestión de calidad, SQL, APIs y validación de datos.
+🌱 *“La curiosidad constante y la disciplina diaria son el motor de mi calidad.”*  
 
-Buscando crecer en un entorno remoto e internacional, preferiblemente en QA Automation, para desafiarme y aprender cada día más.
-
-Amante del fútbol ⚽ y los viajes ✈️.
-
-🛠️ Tecnologías y Herramientas
-
-Python
-Selenium
-Pytest
-PostgreSQL
-Git
-Jira
-Postman
-
-📌 Proyectos Destacados
-
-🔹 Urban Routes Automation
-
-Automatización de pruebas para la aplicación Urban Routes con Selenium y Pytest.
-
-🔹 Urban Grocers App
-
-Casos de prueba funcionales y automatizados para la app Urban Grocers.
-
-🔹 API Stand Tests
-
-Pruebas de API con Pytest para validar endpoints y respuestas de servicios.
-
-📬 Contacto
-
-🌐 LinkedIn
-
-📧 mile_2311@hotmail.com
-
-🌱 “La curiosidad constante y la disciplina diaria son el motor de mi calidad.”
 
