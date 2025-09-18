@@ -51,7 +51,7 @@
 ---
 
 ## 📬 Contacto  
-🌐 [LinkedIn](https://linkedin.com/in/tuusuario)  
+🌐 linkedin.com/in/milena-collazos  
 📧 **mile_2311@hotmail.com**  
 
 ---
