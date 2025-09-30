@@ -1,6 +1,8 @@
 # 👋 ¡Hola, soy Milena Collazos!  
 
-💻 **QA Engineer | QA Automation | Manual QA**  
+🟣 QA Manual & Automation | Experiencia en Marketing 📊, Finanzas 💰 y Tecnología 💻 |
+✨ Mi diferencial: combinar gestión, análisis y comunicación con habilidades técnicas en QA 🤖.
+🔎 Esto me permite anticipar riesgos ⚡ y entender el impacto en el negocio 💼🚀.
 ✨ +10 años en gestión de calidad | 3 años en tecnología  
 
 ---
