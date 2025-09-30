@@ -11,7 +11,7 @@
 🟣 QA Manual & Automation (Selenium, Pytest)  
 🟢 Experiencia en SQL, APIs y validación de datos  
 🔵 Proactiva, investigadora y apasionada por mejorar procesos  
-🟡 Amante del ⚽ fútbol y los ✈️ viajes  
+🟡 Amante del los ✈️ viajes  
 
 ---
 
